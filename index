@@ -231,7 +231,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 				<div id="et-top-navigation">
 					<nav id="top-menu-nav">
 					<ul class="nav et_disable_top_tier" id="top-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5309" id="menu-item-5309"><a href="https://taylorcreekchurch.org/">Welcome</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-65" id="menu-item-65"><a href="#">Purpose and Mission</a>
+<li class="fa fa-caret-down"><a href="#">Purpose and Mission</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525" id="menu-item-525"><a href="https://taylorcreekchurch.org/what-to-expect/">First time here?</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66" id="menu-item-66"><a href="https://taylorcreekchurch.org/statement-faith/">Statement of Faith</a></li>
