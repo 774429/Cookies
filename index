@@ -246,7 +246,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 <li class="fa fa-caret-down"><a href="#">Ministries</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73" id="menu-item-73"><a href="https://taylorcreekchurch.org/ministries/awana/">AWANA</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-266" id="menu-item-266"><a href="https://taylorcreekchurch.org/ministries/community-groups/">Adult</a>
+	<li class=""fa fa-caret-down""><a href="https://taylorcreekchurch.org/ministries/community-groups/">Adult</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4976" id="menu-item-4976"><a href="https://taylorcreekchurch.org/community-groups/">Community Groups</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79" id="menu-item-79"><a href="https://taylorcreekchurch.org/ministries/mens-ministry/">Men’s Ministry</a></li>
